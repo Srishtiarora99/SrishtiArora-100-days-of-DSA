@@ -1,1 +1,2 @@
-# SrishtiArora-100-days-of-DSA
+# DSA (100 Days)
+
